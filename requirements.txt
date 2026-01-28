@@ -1,0 +1,22 @@
+# Data extraction
+yfinance
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical modeling / time series
+statsmodels
+pmdarima
+scipy
+
+# Machine learning / deep learning
+scikit-learn
+tensorflow
+keras
+
+# Portfolio optimization
+PyPortfolioOpt
+
