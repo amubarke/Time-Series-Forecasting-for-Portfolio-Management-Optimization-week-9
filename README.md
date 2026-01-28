@@ -116,7 +116,9 @@ portfolio-optimization/
 │   ├── __init__.py
 
 │   └──Task_1_preprocess_and_EDA.ipynb
-    └── modeling.ipynb
+
+|   └── modeling.ipynb
+
 ├── src/
 
 │   └── __init__.py
